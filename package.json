@@ -3,6 +3,6 @@
     "version": "0.0.1",
     "author": "Mame29",
     "urls": [
-        ["server/__init__.py", "server/__init__.py"]
+        ["https://github.com/Mame29/server-esp8266/blob/main/server/__init__.py", "server/__init__.py"]
     ]
 }
