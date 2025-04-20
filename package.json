@@ -1,7 +1,7 @@
 {
     "name": "server",
     "version": "0.0.1",
-    "author": "Mame29"
+    "author": "Mame29",
     "urls": [
         ["server.py", "server.py"]
     ]
