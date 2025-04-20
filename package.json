@@ -1,0 +1,8 @@
+{
+    "name": "server",
+    "version": "0.0.1",
+    "author": "Mame29",
+    "urls": [
+        ["server/__init__.py", "server/__init__.py"]
+    ]
+}
