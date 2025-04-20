@@ -1,5 +1,6 @@
 {
     "name": "server",
-    "version": "0.1",
-    "author": "Mame29"
+    "version": "0.0.1",
+    "author": "Mame29",
+    "module": "server.py"
 }
